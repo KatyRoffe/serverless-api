@@ -2,7 +2,7 @@
 
 Author: Katy Roffe
 
-API Link: [url](https://7rr148n24h.execute-api.us-west-2.amazonaws.com/people/)
+API Link: [url](https://7rr148n24h.execute-api.us-west-2.amazonaws.com/dev/people/)
 
 ## About
 
